@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/vedic_64x64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vedic_64x64
+INFO: [VRFC 10-311] analyzing module add_64_bit
+INFO: [VRFC 10-311] analyzing module add_96_bit
+INFO: [VRFC 10-311] analyzing module vedic_32x32
+INFO: [VRFC 10-311] analyzing module add_32_bit
+INFO: [VRFC 10-311] analyzing module add_48_bit
+INFO: [VRFC 10-311] analyzing module vedic_16x16
+INFO: [VRFC 10-311] analyzing module add_16_bit
+INFO: [VRFC 10-311] analyzing module add_24_bit
+INFO: [VRFC 10-311] analyzing module vedic_8X8
+INFO: [VRFC 10-311] analyzing module add_8_bit
+INFO: [VRFC 10-311] analyzing module add_12_bit
+INFO: [VRFC 10-311] analyzing module vedic_4_x_4
+INFO: [VRFC 10-311] analyzing module add_4_bit
+INFO: [VRFC 10-311] analyzing module add_6_bit
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-311] analyzing module vedic_2x2
+INFO: [VRFC 10-311] analyzing module ha
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/vedic_64x64_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vedic_64x64_tb

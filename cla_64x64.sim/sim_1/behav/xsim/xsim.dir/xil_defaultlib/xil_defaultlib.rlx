@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/cla_64x64.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/vedic_64x64.v,1690992324,verilog,,C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/vedic_64x64_tb.v,,add_12_bit;add_16_bit;add_24_bit;add_32_bit;add_48_bit;add_4_bit;add_64_bit;add_6_bit;add_8_bit;add_96_bit;full_adder;ha;vedic_16x16;vedic_2x2;vedic_32x32;vedic_4_x_4;vedic_64x64;vedic_8X8,,,,,,,,
+C:/Users/prati/OneDrive/Desktop/ISE_Vivado/cla_64x64/vedic_64x64_tb.v,1690992463,verilog,,,,vedic_64x64_tb,,,,,,,,
